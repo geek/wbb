@@ -1,1 +1,17 @@
 /* Stylesheets */
+
+.wrap {
+  margin: 0 auto;
+  width: 90%;
+
+  > header {
+    margin: 0;
+
+    h1 {
+      font: bold 40px "Arial", sans-serif;
+      text-align: center;
+    }
+  }
+}
+
+
