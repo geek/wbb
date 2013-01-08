@@ -15,3 +15,11 @@ Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
 Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
 Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. 
 Etiam rhoncus. Maecenas tempus, tellus eget.
+
+## Section 1.2 with image
+Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. 
+Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
+Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. 
+Etiam rhoncus. Maecenas tempus, tellus eget.
+
+
